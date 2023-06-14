@@ -1,5 +1,4 @@
-
-[![An image of @heramb0x1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/heramb0x1)](https://holopin.io/@heramb0x1)
+![logo](https://github.com/Heramb0x1/Heramb0x1/blob/main/GitHubBanner2.png)
 
 
 <h1 align="center">Hi 👋, I'm Heramb Salunkhe</h1>
@@ -33,8 +32,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heramb0x1&show_icons=true&locale=en&layout=compact" alt="heramb0x1" /></p>
+![](https://raw.githubusercontent.com/Heramb0x1/Heramb.0x1/heramb's.profile.exe/profile-summary-card-output/jolly/0-profile-details.svg)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heramb0x1&show_icons=true&locale=en" alt="heramb0x1" /></p>
+![](https://raw.githubusercontent.com/Heramb0x1/Heramb.0x1/heramb's.profile.exe/profile-summary-card-output/jolly/3-stats.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heramb0x1&" alt="heramb0x1" /></p>
+![](https://raw.githubusercontent.com/Heramb0x1/Heramb.0x1/heramb's.profile.exe/profile-summary-card-output/jolly/4-productive-time.svg)
+
+[![An image of @heramb0x1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/heramb0x1)](https://holopin.io/@heramb0x1)
