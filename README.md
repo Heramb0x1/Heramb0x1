@@ -2,23 +2,23 @@
 
 
 <h1 align="center">Hi 👋, I'm Heramb Salunkhe</h1>
-<h3 align="center">A passionate Video Editor, Thumbnail Editor & A Transcriptor from India</h3>
+<h3 align="center">A passionate Video Editor, Thumbnail Editor & A Transcriptor from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heramb0x1&label=Profile%20views&color=0e75b6&style=flat" alt="heramb0x1" /> </p>
 
-- 🔭 I’m currently working on **learning skills (Computer languages)**
+- 🔭 I’m currently working on **leveraging my skills**.
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**.
 
-- 👯 I’m looking to collaborate on **with creators looking for an video editor**
+- 👯 I’m looking to collaborate **with creators looking for an video/Thumbnail editor or a transcriptor**.
 
-- 📝 I regularly write articles on [https://www.instagram.com/alphagoku.01/](https://www.instagram.com/alphagoku.01/)
+- 📝Well even I'm working as an Editor at: [https://www.instagram.com/alphagoku.01/](https://www.instagram.com/alphagoku.01/)
 
-- 📫 How to reach me **herambsalunkhe2312@gmail.com**
+- 📫 Feel free to dm me @ **[https://www.instagram.com/heramb.0x1/](https://www.instagram.com/heramb.0x1/)**
 
-- My Links [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
+- My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ <#mystatus>[loop of Learning to love / love to learning].
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
