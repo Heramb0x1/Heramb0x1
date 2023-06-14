@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Heramb Salunkhe</h1>
 <h3 align="center">A passionate Video Editor, Thumbnail Editor & A Transcriptor from India</h3>
 
-<img align="right" alt="NowEditing ■■□□□□□□□□ 20%" width="400" src= "![image](https://github.com/Heramb0x1/Heramb0x1/assets/136613738/c478976f-1000-498a-8e8e-7205f4b9697b)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heramb0x1&label=Profile%20views&color=0e75b6&style=flat" alt="heramb0x1" /> </p>
 
 - 🔭 I’m currently working on **learning skills (Computer languages)**
