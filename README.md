@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**.
 
-- 👯 I’m looking to collaborate **with creators looking for an video/Thumbnail editor or a transcriptor**.
+- 👯 I’m looking to collaborate **with creators who are looking for an video/Thumbnail editor or a transcriptor**.
 
 - 📝Well even I'm working as an Editor at: [https://www.instagram.com/alphagoku.01/](https://www.instagram.com/alphagoku.01/)
 
