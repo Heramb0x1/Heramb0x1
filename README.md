@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/heramb0x1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heramb salunkhe" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/heramb0x1" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-z5dvl47c.png" alt="heramb salunkhe" height="30" width="40" /></a>
 <a href="https://dev.to/heramb0x1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heramb.0x1" height="30" width="40" /></a>
 <a href="https://developers.google.com/profile/u/heramb0x1-mit-wpu-ece-aiml-23?authuser=2" target="blank"><img align="center" src="https://seeklogo.com/images/G/google-developers-logo-F8BF3155AC-seeklogo.com.png" alt="heramb.0x1" height="30" width="40" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/df6ad5a0-00a0-41fa-80c7-185e1e709b2d" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" alt="heramb_0x1" height="30" width="40" /></a>
