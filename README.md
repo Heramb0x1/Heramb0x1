@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **leveraging my skills**.
 
-- 🌱 I’m currently learning **Cloud Computing**.
+- 🌱 I’m currently learning **More About Artificial Intelligence**.
 
 - 👯 I’m looking to collaborate **with creators who are looking for a video/Thumbnail editor or a Designer**.
 
