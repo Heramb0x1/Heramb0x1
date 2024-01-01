@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **More About Artificial Intelligence**.
 
-- My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site)**.
+- My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site).
 
 
 - 🕴️ I’m looking to collaborate **with creators who are looking for a video/Thumbnail editor or a Designer**.
