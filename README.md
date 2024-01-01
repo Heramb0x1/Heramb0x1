@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **More About Artificial Intelligence**.
 
-- 👯 I’m looking to collaborate **with creators who are looking for a video/Thumbnail editor or a Designer**.
+- 🕴️ I’m looking to collaborate **with creators who are looking for a video/Thumbnail editor or a Designer**.
 
 - 📝Well even I'm working as an Editor at [https://www.instagram.com/mitwpu.init.cloud/](https://www.instagram.com/mitwpu.init.cloud//)
 
