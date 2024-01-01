@@ -16,9 +16,9 @@
 
 - 📫 Feel free to dm me @ **[https://www.instagram.com/heramb.0x1/](https://www.instagram.com/heramb.0x1/)**
 
-- My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
+- 🔗 My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
 
-- My Past Work : [https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F](https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F)
+- 💼 My Past Work : [https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F](https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F)
 
 - ⚡ <#mystatus>[loop of Learning to love / love to learning].
 
