@@ -10,11 +10,14 @@
 
 - 🌱 I’m currently learning **More About Artificial Intelligence**.
 
+- My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site)**.
+
+
 - 🕴️ I’m looking to collaborate **with creators who are looking for a video/Thumbnail editor or a Designer**.
 
 - 📝Well even I'm working as an Editor at [https://www.instagram.com/mitwpu.init.cloud/](https://www.instagram.com/mitwpu.init.cloud//)
 
-- 📫 Feel free to dm me @ **[https://www.instagram.com/heramb.0x1/](https://www.instagram.com/heramb.0x1/)**
+- 📫 Feel free to dm me @ **[https://www.linkedin.com/in/heramb0x1](https://www.linkedin.com/in/heramb0x1)**
 
 - 🔗 My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
 
