@@ -13,7 +13,7 @@
 - 🧑🏻‍💻 My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site)
 
 
-- 🕴️ I’m looking to collaborate **with creators who are looking for a video/Thumbnail editor or a Designer**.
+- 🕴️ I’m looking to collaborate **with creators who are looking for a Multimedia Designer(Video Editor or Graphic Designer)**.
 
 - 📝Well even I'm working as an Editor at [https://www.instagram.com/mitwpu.init.cloud/](https://www.instagram.com/mitwpu.init.cloud//)
 
