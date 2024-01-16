@@ -12,7 +12,7 @@
 
 - 🧑🏻‍💻 My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site)
 
-- 🔭 I’m currently working as Video Editor & Designer in **Google Developer Stuednt Clubs - MITWPU**.
+- 💻 I’m currently working as Video Editor & Designer in **Google Developer Stuednt Clubs - MITWPU**.
 
 
 - 🕴️ I’m looking to collaborate **with creators who are looking for a Multimedia Designer ( Video Editor or Graphic Designer )**.
