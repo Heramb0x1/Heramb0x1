@@ -20,6 +20,8 @@
 - 📝Well even I'm working as an Editor 
 @[https://www.instagram.com/mitwpu.init.cloud/](https://www.instagram.com/mitwpu.init.cloud/)
 
+- 😅 Big fan of **Elon Musk** Sir.
+
 - 📫 Feel free to dm me @[https://www.linkedin.com/in/heramb0x1](https://www.linkedin.com/in/heramb0x1)
 
 - 🔗 My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
