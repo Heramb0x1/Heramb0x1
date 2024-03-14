@@ -56,4 +56,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+
+<details>
+ <summary><h3>👨‍💻 Heramb's Coding Journey</h3></summary>
+   I'm a passionate First Year B.Tech ECE (AI-ML) student, a coding enthusiast who finds joy in coding through the night. Video editing and creating stunning thumbnails are my forte. I’m even a Multimedia Designer in Google Developer Student Clubs - MITWPU. I'm like a bug stuck to my computer who constantly keeps learning and evolving.
+
 [![An image of @heramb0x1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/heramb0x1)](https://holopin.io/@heramb0x1)
