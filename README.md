@@ -6,28 +6,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heramb0x1&label=Profile%20views&color=0e75b6&style=flat" alt="heramb0x1" /> </p>
 
-- 🔭 I’m currently working on **leveraging my skills**.
+🔭 I’m currently working on **leveraging my skills**.
 
-- 🌱 I’m currently learning **More About Artificial Intelligence**.
+🌱 I’m currently learning **More About Artificial Intelligence**.
 
-- 🧑🏻‍💻 My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site)
+🧑🏻‍💻 My Portfolio: [https://heramb-salunkhe.super.site](https://heramb-salunkhe.super.site)
 
-- 💻 I’m currently working as Video Editor & Designer in **Google Developer Stuednt Clubs - MITWPU**.
+💻 I’m currently working as Video Editor & Designer in **Google Developer Stuednt Clubs - MITWPU**.
 
 
-- 🕴️ I’m looking to collaborate **with creators who are looking for a Multimedia Designer ( Video Editor or Graphic Designer )**.
+🕴️ I’m looking to collaborate **with creators who are looking for a Multimedia Designer ( Video Editor or Graphic Designer )**.
 
-- 📝Well even I'm working as an Editor 
+📝Well even I'm working as an Editor 
 @[https://www.instagram.com/mitwpu.init.cloud/](https://www.instagram.com/mitwpu.init.cloud/)
 
 
-- 📫 Feel free to dm me @[https://www.linkedin.com/in/heramb0x1](https://www.linkedin.com/in/heramb0x1)
+📫 Feel free to dm me @[https://www.linkedin.com/in/heramb0x1](https://www.linkedin.com/in/heramb0x1)
 
-- 🔗 My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
+🔗 My affiliate Links : [https://linktr.ee/heramb.0x1](https://linktr.ee/heramb.0x1)
 
-- 💼 My Past Work : [https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F](https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F)
+💼 My Past Work : [https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F](https://drive.google.com/drive/u/2/folders/1C2Tz1IRTL16VF7RtHnIatZd6GvAiD80F)
 
-- ⚡ <#mystatus>[loop of Learning to love / love to learning].
+⚡ <#mystatus>[loop of Learning to love / love to learning].
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -43,10 +44,5 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*A6kkoOVJVpXPWewg8axc5w.png" alt="canva" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/768px-Adobe_Premiere_Pro_CC_icon.svg.png?20210729021549" alt="premierepro" width="40" height="40"/> </a> <a href="https://www.cloudskillsboost.google/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/777/274/png-clipart-google-cloud-platform-cloud-computing-microsoft-azure-business-cloud-computing-text-logo.png" alt="Google Cloud Platform" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1853px-C_Programming_Language.svg.png" alt="XD" width="40" height="40"/> </p>
 
-![](https://raw.githubusercontent.com/Heramb0x1/Heramb.0x1/heramb's.profile.exe/profile-summary-card-output/jolly/0-profile-details.svg)
-
-![](https://raw.githubusercontent.com/Heramb0x1/Heramb.0x1/heramb's.profile.exe/profile-summary-card-output/jolly/3-stats.svg)
-
-![](https://raw.githubusercontent.com/Heramb0x1/Heramb.0x1/heramb's.profile.exe/profile-summary-card-output/jolly/4-productive-time.svg)
-
+[![Heramb's GitHub stats](https://github-readme-stats.vercel.app/api?username=heramb0x1)](https://github.com/anuraghazra/github-readme-stats)
 [![An image of @heramb0x1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/heramb0x1)](https://holopin.io/@heramb0x1)
