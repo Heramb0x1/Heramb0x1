@@ -19,7 +19,7 @@
 🕴️ I’m looking to collaborate **with creators who are looking for a Multimedia Designer ( Video Editor or Graphic Designer )**.
 
 📝Well even I'm working as an Editor 
-@[https://www.instagram.com/mitwpu.init.cloud/](https://www.instagram.com/mitwpu.init.cloud/)
+@[https://www.instagram.com/gdscmitwpu/](https://www.instagram.com/gdscmitwpu/)
 
 
 📫 Feel free to dm me @[https://www.linkedin.com/in/heramb0x1](https://www.linkedin.com/in/heramb0x1)
