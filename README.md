@@ -46,7 +46,8 @@
 
 <br>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heramb0x1&label=Profile%20views&color=0e75b6&style=flat" alt="heramb0x1" /> </p>
+<br><p align="centre"><b>Welcome To The Matrix!</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Heramb0x1}/count.svg" /></p> 
 <br>
 </div>
