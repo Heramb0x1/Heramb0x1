@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=67CB57&center=true&random=false&width=1000&lines=Hello%2C+my+name+is+Heramb+Salunkhe;Currently+18!;I'm+Founder+at+PerpetuaTech+Labs;I'm+a+student+of+Electronics+%26+Communication+Engineering+(AI-ML);Be+Welcome!)
 
-[![Heramb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Heramb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1)
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Heramb0x1&theme=matrix&bg_color=0d1117&row=2&no-bg=true&column=3&color=fff&margin-w=15&margin-h=15" />
