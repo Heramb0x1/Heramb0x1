@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8BB7CFCF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=1000&color=8BB7CFCF&center=true&vCenter=true&random=false&width=1000&lines=Hello+there!;Myself+Heramb+Salunkhe;Currently+18!;Pursuing+Electronics+Communication+Engineering+(AI-ML);Welcome%2C+contributors!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=1000&color=67cb57&center=true&vCenter=true&random=false&width=1000&lines=Hello+there!;Myself+Heramb+Salunkhe;Currently+18!;Pursuing+Electronics+Communication+Engineering+(AI-ML);Welcome%2C+contributors!)](https://git.io/typing-svg)
 
 [![Heramb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1)
 
