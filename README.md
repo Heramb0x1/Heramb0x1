@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=67cb57&height=120&section=header"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=67CB57&center=true&random=false&width=1000&lines=Hello%2C+my+name+is+Heramb+Salunkhe;Currently+18!;I'm+Founder+at+PerpetuaTech+Labs;I'm+a+student+of+Electronics+%26+Communication+Engineering+(AI-ML);Be+Welcome!)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=4000&pause=1000&color=67CB57&center=true&vCenter=true&random=false&width=1000&lines=Hello;My+Name+is+Heramb+Salunkhe;Currently+18!;Pursuing+Electronics+Communication+Engineering+(AI-ML);Welcome%2C+contributors!)](https://git.io/typing-svg)
 
 [![Heramb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1&bg_color=0d1117&color=67cb57&line=67cb57&point=67cb57&area=true&hide_border=true)](https://github-readme-activity-graph.vercel.app/graph?username=Heramb0x1)
 
