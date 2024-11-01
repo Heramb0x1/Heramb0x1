@@ -14,7 +14,7 @@
 <div align="center">
 <a href="https://www.linkedin.com/in/heramb0x1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.instagram.com/heramb.0x1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-67cb57?style=for-the-badge&logo=instagram&logoColor=fff"</a>
-<a href = "https://heramb-salunkhe.super.site"> <img src="https://img.shields.io/badge/My_Portfolio-black?style=for-the-badge&logo=opentofu&logoColor=%23FFFFFF"</a>
+<a href = "https://heramb.dino.icu"> <img src="https://img.shields.io/badge/My_Portfolio-black?style=for-the-badge&logo=opentofu&logoColor=%23FFFFFF"</a>
 <a href = "https://aspecta.id/u/Heramb0x1"> <img src="https://img.shields.io/badge/Aspecta_Id-%2367cb57?style=for-the-badge&logo=angular&labelColor=%23FFFFF" target="_blank"></a>
 <a href = "mailto:herambsalunkhe.23@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-67cb57?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
 </div>
