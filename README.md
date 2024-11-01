@@ -24,23 +24,8 @@
 <br>
 
 <div align="center">
-
-## 🛠 &nbsp;Tech Stacks
-
-### 👨🏻‍💻 &nbsp;Tools
-![Premiere_Pro](https://img.shields.io/badge/Premiere_Pro-black?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=%2300000)
-![After_Effects](https://img.shields.io/badge/After_Effects-black?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=%23003153)
-
-
-
-### 👨🏻‍💻 &nbsp;Back-end
-![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&labelColor=000&textColor=fff)&nbsp;
-![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV&logoColor=%2300000)
-
-### 🗃️ &nbsp;Database
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge&logo=MySQL&labelColor=000&textColor=fff)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL&labelColor=000&textColor=fff)&nbsp;
-
+  
+![Heramb's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=heramb0x1)
 
 <br>
 <div align="center">
