@@ -12,7 +12,7 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
   <br />
   
 
-  <img align="right" width="40%" src="https://github.com/Heramb0x1/Heramb0x1/releases/download/resources/MOODE-OS.gif" />
+  <img align="right" width="40%" src="https://github.com/Heramb0x1/Heramb0x1/releases/download/resources/MoodE.gif" />
 
   [MOODE OS](https://github.com/Heramb0x1/Heramb0x1/releases/download/resources/MoodE.gif) is designed to analyze the harmonic oscillation of an object using computer vision techniques
   
@@ -24,8 +24,8 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
    
   - Website (soon..)
   
-  Website(in dev.): [**heramb**](https://heramb.dino.icu)
-  blog: [**MOODE OS**](https://heramb.dino.icu/projects/project1.html)
+  Website(in dev.): [**heramb**](https://heramb.dino.icu) <br>
+  blog: [**MOODE OS**](https://heramb.dino.icu/projects/project1.html) <br>
 </details>
 
 <details>
@@ -44,8 +44,8 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
   - Language: Modern Js
   - GUI: Tailwind CSS (for the website)
   
-  Website: [**web**](https://betterwork-ai.dino.icu)
-  launch: [**product hunt**](https://dub.sh/open-in-sh/ph)
+  Website: [**web**](https://betterwork-ai.dino.icu) <br>
+  launch: [**product hunt**](https://dub.sh/open-in-sh/ph) <br>
   Video: [**Youtube**](https://youtu.be/NjJVSYgGVqk)
 </details>
 
