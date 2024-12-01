@@ -55,9 +55,9 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
 
 - Languages: HTML, CSS, JavaScript, C, Kotlin, Python, OpenCV, Markdown.
 - Developer Tools: Docker, Visual Studio Code, Notion, Google Cloud Platform.
-- Technologies/Frameworks: GitHub, WordPress, AutoCAD, Audacity Canva, Cloud Computing,
-- Generative AI, Jupyter, Notebook, Adobe Premiere Pro, Adobe After Effects.
-- Microcontrollers: ESP32 (C), ESP 8266 hands-on experience in hackathon projects
+- Technologies/Frameworks: GitHub, WordPress, AutoCAD, Audacity, Canva, Cloud Computing,
+  Generative AI, Jupyter, Notebook, Adobe Premiere Pro, Adobe After Effects.
+- Microcontrollers: ESP32 (C), ESP 8266 hands-on experience in hackathon projects.
 
 <br>
 
