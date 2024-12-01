@@ -58,3 +58,8 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
 - Technologies/Frameworks: GitHub, WordPress, AutoCAD, Audacity Canva, Cloud Computing,
 - Generative AI, Jupyter, Notebook, Adobe Premiere Pro, Adobe After Effects.
 - Microcontrollers: ESP32 (C), ESP 8266 hands-on experience in hackathon projects
+
+<br>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Heramb0x1}/count.svg" /></p> 
+<br>
