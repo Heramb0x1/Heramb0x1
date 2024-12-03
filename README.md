@@ -14,7 +14,7 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
 
   <img align="right" width="40%" src="https://github.com/Heramb0x1/Heramb0x1/releases/download/resources/MoodE.gif" />
 
-  [MOODE OS](https://github.com/Heramb0x1/Heramb0x1/releases/download/resources/MoodE.gif) is designed to analyze the harmonic oscillation of an object using computer vision techniques
+  [MOODE OS](https://github.com/Heramb0x1/MoodE-development) is designed to analyze the harmonic oscillation of an object using computer vision techniques
   
   **Tech stack**:
   - Firmware
@@ -24,7 +24,7 @@ myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (bui
    
   - Website (soon..)
   
-  Website(in dev.): [**heramb**](https://heramb.dino.icu) <br>
+  Repository (in dev.): [**GitHub**](https://github.com/Heramb0x1/MoodE-development) <br>
   blog: [**MOODE OS**](https://heramb.dino.icu/projects/project1.html) <br>
 </details>
 
