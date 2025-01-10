@@ -1,6 +1,6 @@
 [![heramb.0x1](https://github.com/Heramb0x1/Heramb0x1/releases/download/resources/Wl-banner.jpg)](https://linktr.ee/heramb.0x1)
 
-myself &rarr; [heramb.dino.icu](https://heramb.dino.icu) • betterrwork.ai (building) &rarr; [betterwork.ai](https://dub.sh/betterwork-ai)
+myself &rarr; [heramb.dino.icu](https://heramb.icu) • betterrwork.ai (building) &rarr; [betterwork.ai](https://dub.sh/betterwork-ai)
 
 ### Featured projects
 
